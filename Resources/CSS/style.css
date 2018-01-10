@@ -1,0 +1,62 @@
+
+body {
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+}
+
+.Header {
+  background-image: url("../Images/the-flatiron-building.png");
+}
+
+#TopNav {
+  font-size: 18px;
+  color: white;
+}
+
+#BroadwayDesign {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+
+.OurProcess {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.NewYork {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../Images/the-flatiron-building.png");
+}
+
+p {
+  font-size: 14px;
+}
+
+#BottomNav {
+  background-color: gray;
+}
+
+#BottomNavList{
+  font-size: 18px;
+  color: white;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+}
